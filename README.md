@@ -102,4 +102,12 @@ Once the environment is active and all dependencies are installed, you can launc
 ```bash
 streamlit run app.py
 
+```
+
+### Data Sets
+
+The datasets and model weights are available here:
+https://drive.google.com/drive/folders/1ynjAfxWf3_bycjVLyOi5AHZlEqbohKlO?usp=sharing
+
+
 
