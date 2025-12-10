@@ -102,7 +102,7 @@ It's highly recommended to use a **virtual environment** (`venv`) to manage the 
 Once the environment is active and all dependencies are installed, you can launch the application.
 
 ```bash
-streamlit run app.py
+streamlit run dashboard.py
 
 ```
 
