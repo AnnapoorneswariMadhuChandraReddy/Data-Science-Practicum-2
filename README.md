@@ -76,7 +76,7 @@ It's highly recommended to use a **virtual environment** (`venv`) to manage the 
 1.  **Create the environment:**
     ```bash
     git clone https://github.com/AnnapoorneswariMadhuChandraReddy/Data-Science-Practicum-2.git
-    cd dr_vision
+    cd dr_vision/notebooks
     python -m venv venv
     ```
 
