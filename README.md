@@ -46,7 +46,7 @@ Critically, augmentations were **only applied to the training set**. The validat
 
 <!-- Placeholder for augmentation examples -->
 **Augmentation Examples**
-`![Augmentation Samples](path/to/your/augmentation_examples.png)`
+![Augmentation Samples](plots/augmentation_examples.png)
 
 ### 4. Exploratory Data Analysis (EDA)
 EDA was crucial for understanding the final unified dataset. Key findings included:
@@ -56,7 +56,7 @@ EDA was crucial for understanding the final unified dataset. Key findings includ
 
 <!-- Placeholder for EDA charts -->
 **Final Dataset Class Distribution**
-`![Class Distribution](path/to/your/class_distribution_plot.png)`
+![Class Distribution](plots/class_distribution_plot.png)
 
 ### 5. Modeling and Evaluation
 I trained several models to compare their effectiveness on this specific task, ranging from a simple baseline to complex, pretrained architectures.
@@ -86,10 +86,10 @@ The Swin Transformer's underperformance suggests it may require more extensive f
 
 <!-- Placeholder for results charts -->
 **Model Performance Comparison**
-`![Model Comparison Chart](path/to/your/model_comparison_chart.png)`
+![Model Comparison Chart](plots/model_comparison_chart.png)
 
 **Confusion Matrix for Top Model (EfficientNetV2)**
-`![Confusion Matrix](path/to/your/efficientnet_cm.png)`
+![Confusion Matrix](plots/efficientnet_cm.png)
 
 ---
 
