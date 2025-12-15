@@ -5,6 +5,8 @@
 
 **DR-Vision** is my end-to-end deep learning project designed for the **automated detection of Diabetic Retinopathy (DR)** from retinal fundus images. My goal was to build a reliable diagnostic tool by integrating multiple public datasets, implementing a robust preprocessing and augmentation pipeline, and leveraging state-of-the-art deep learning models.
 
+The **DR-Vision** project was initiated to address the growing need for efficient and automated detection of Diabetic Retinopathy (DR), a leading cause of blindness in diabetic patients. By combining cutting-edge deep learning techniques with robust image preprocessing, the project aims to create a reliable tool that can help healthcare professionals detect DR early, enabling timely intervention and reducing the risk of severe complications. The integration of multiple datasets allowed for a diverse and comprehensive model training, ensuring high accuracy and generalization. Moreover, the implementation of advanced models like EfficientNetV2 and MobileNetV2 ensures that the tool is both accurate and computationally efficient. The final interactive dashboard makes it easy for users to upload retinal fundus images and receive real-time predictions, making the technology accessible and useful in both clinical and remote settings.
+
 The project encompasses the entire machine learning lifecycle:
 -   **Data Unification:** Aggregating and organizing three distinct fundus image datasets.
 -   **Image Preprocessing:** Applying specialized techniques like circle cropping and CLAHE to standardize and enhance image quality.
