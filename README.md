@@ -54,11 +54,11 @@ EDA was crucial for understanding the final unified dataset. Key findings includ
 -   **Image Dimensions:** The raw images varied significantly in size and aspect ratio, reinforcing the need for a standardized preprocessing pipeline.
 -   **Pixel Statistics:** I calculated the approximate mean and standard deviation for the RGB channels, which are essential for normalizing inputs for pretrained models.
 
-<!-- Placeholder for EDA charts -->
 **Final Dataset Class Distribution**
-![Class Distribution](plots/vl_class_distribution_plot.png)
-![Class Distribution](plots/tr_class_distribution_plot.png)
-![Class Distribution](plots/ts_class_distribution_plot.png)
+
+| Validation | Training | Test |
+|-----------|----------|------|
+| ![](plots/vl_class_distribution_plot.png) | ![](plots/tr_class_distribution_plot.png) | ![](plots/ts_class_distribution_plot.png) |
 
 
 
