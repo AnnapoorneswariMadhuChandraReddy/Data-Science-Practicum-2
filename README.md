@@ -56,7 +56,11 @@ EDA was crucial for understanding the final unified dataset. Key findings includ
 
 <!-- Placeholder for EDA charts -->
 **Final Dataset Class Distribution**
-![Class Distribution](plots/class_distribution_plot.png)
+![Class Distribution](plots/vl_class_distribution_plot.png)
+![Class Distribution](plots/tr_class_distribution_plot.png)
+![Class Distribution](plots/ts_class_distribution_plot.png)
+
+
 
 ### 5. Modeling and Evaluation
 I trained several models to compare their effectiveness on this specific task, ranging from a simple baseline to complex, pretrained architectures.
