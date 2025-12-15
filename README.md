@@ -89,15 +89,30 @@ After training and rigorous evaluation on the unseen test set, the models delive
 The Swin Transformer's underperformance suggests it may require more extensive fine-tuning or a larger dataset to adapt effectively from its original pretraining tasks. The pretrained CNN architectures demonstrated exceptional transfer learning capabilities.
 
 <!-- Placeholder for results charts -->
-**Model Performance Comparison**
-![Model Comparison Chart](plots/model_comparison_chart.png)
+## Model Performance Comparison
 
-**Confusion Matrix for Top Model (EfficientNetV2)**
-![Confusion Matrix](plots/efficientnet_cm.png)
+<p align="center">
+  <img src="plots/model_comparison_chart.png" alt="Model Comparison Chart" width="700">
+</p>
+
+<p align="center">
+  <em>Figure 1: Performance comparison of evaluated models.</em>
+</p>
+
+## Confusion Matrix — Top Performing Model (EfficientNetV2)
+
+<p align="center">
+  <img src="plots/efficientnet_cm.png" alt="Confusion Matrix for EfficientNetV2" width="500">
+</p>
+
+<p align="center">
+  <em>Figure 2: Confusion matrix for EfficientNetV2, the best-performing model.</em>
+</p>
+
 
 ---
 
-##  dashboard
+##  Dashboard
 
 To make the model accessible and demonstrate its practical application, I developed an interactive web dashboard using **Streamlit**.
 
